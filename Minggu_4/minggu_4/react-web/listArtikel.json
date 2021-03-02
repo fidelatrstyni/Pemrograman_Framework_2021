@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Workshop Amazon Web Services (AWS) Untuk Para Dosen Jurusan Teknologi Informasi Politeknik Negeri Malang",
+      "author": "Fidela Trisaktiyani",
+      "body": "Amazon Web Services adalah sekumpulan layanan-layanan berbasis Cloud Computing yang dibuat oleh Amazon sejak tahun 2002. JTI Polinema bekerja sama dengan pihak Amazon dalam pelaksanaan acara ini "
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Elon Musk yang Ingin Meninggal di Mars",
+      "body": " Elon Musk tak cuma ingin membangun kolonisasi di Mars. Ia juga menyimpan keinginan meninggal di Planet Mars. Hal ini ia ungkapkan pada 2013, ketika ia menghadiri SXSW sebagaimana dikutip detikINET dari CNET, Senin (1/3/2021) Dalam perbincangan tersebut, Musk sempat berbicara tentang harapannya bahwa suatu hari umat manusia dapat meninggalkan planet ini dan mencapai Mars."
+    },
+    {
+      "id": 1614664575861,
+      "body": "Dante mengatakan, masuknya mutasi virus corona dari Inggris ini akan membuat tantangan masyarakat Indonesia dalam menghadapi pandemi Covid-19 semakin berat."
+    }
+  ]
+}
