@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1614784766826,
+      "namaProduk": "Apple MacBook Air 13 (M1, 2020)",
+      "stok": "5",
+      "harga": "20.000.000",
+      "gambar": "img/gambar1.png"
+    },
+    {
+      "userId": 1,
+      "id": 1614784812090,
+      "namaProduk": "Apple MacBook Air 13 (M1, 2021)",
+      "stok": "3",
+      "harga": "30.000.000",
+      "gambar": "img/gambar1.png"
+    },
+    {
+      "id": 1614784812099,
+      "namaProduk": "Apple MacBook Air 12 (M1, 2021)",
+      "harga": "24.000.000",
+      "Stok": "11",
+      "gambar": "img/gambar1.png"
+    }
+  ]
+}

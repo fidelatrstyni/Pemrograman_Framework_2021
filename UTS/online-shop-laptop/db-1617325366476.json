@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1614784766826,
+      "namaProduk": "Stackoverlow",
+      "stok": "5",
+      "harga": "200.000",
+      "gambar": "img/gambar1.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1614784812090,
+      "namaProduk": "Stackoverlow 2",
+      "stok": "3",
+      "harga": "300.000",
+      "gambar": "img/gambar1.jpg"
+    }
+  ]
+}
