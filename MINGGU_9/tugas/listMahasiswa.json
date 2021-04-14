@@ -1,0 +1,36 @@
+{
+  "mahasiswa": [
+    {
+      "nim": 1841720140,
+      "nama": "Dinda Karisma",
+      "alamat": "Jl. Pegangsaan V No. 2",
+      "hp": "081225983454",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "nim": 1741720143,
+      "nama": "Citra Laura",
+      "alamat": "Jl. Ahmad Yani No. 26 Surabaya",
+      "hp": "081566387402",
+      "angkatan": "2017",
+      "status": "lulus"
+    },
+    {
+      "nim": 1841720126,
+      "nama": "Bunga Salsabila",
+      "alamat": "Pamulang Selatan",
+      "hp": "081972648834",
+      "angkatan": "2018",
+      "status": "cuti"
+    },
+    {
+      "nim": 1541720152,
+      "nama": "Yuni Rinata",
+      "alamat": "Jl. Mayjend Sungkono 148 Surabaya",
+      "hp": "0811252550",
+      "angkatan": "2015",
+      "status": "lulus"
+    }
+  ]
+}
